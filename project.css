@@ -102,7 +102,7 @@ button:hover{
     border: none;
 }
 .right{
-    background-image: url("foto-glavnoe.png");
+    background-image: url("img/foto-glavnoe.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center -2.1vw;
@@ -194,22 +194,22 @@ button:hover{
     background-position: center center;
 }
 .pic1{
-    background-image: url("pic1.png");
+    background-image: url("img/pic1.png");
 }
 .pic2{
-    background-image: url("pic2.png");
+    background-image: url("img/pic2.png");
 }
 .pic3{
-    background-image: url("pic3.png");
+    background-image: url("img/pic3.png");
 }
 .pic4{
-    background-image: url("pic4.png");
+    background-image: url("img/pic4.png");
 }
 .pic5{
-    background-image: url("pic5.png");
+    background-image: url("img/pic5.png");
 }
 .pic6{
-    background-image: url("pic6.png");
+    background-image: url("img/pic6.png");
 }
 .pic1, .pic5{
     background-color: rgba(84, 84, 212, 0.10);
@@ -244,13 +244,13 @@ button:hover{
     background-position: center center;
 }
 .article1{
-    background-image: url("article2.png");
+    background-image: url("img/article2.png");
 }
 .article2{
-    background-image: url("article1.png");
+    background-image: url("img/article1.png");
 }
 .article3{
-    background-image: url("article3.png");
+    background-image: url("img/article3.png");
 }
 .contact{
     background: rgba(30, 30, 32, 0.50);

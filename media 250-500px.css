@@ -1,0 +1,185 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    header{
+        width: 88vw;
+        margin-left: 6vw;
+        height: 19.73vw;
+        align-items: flex-end;
+    }
+    .logo>img {
+        width: 27px;
+        height: 27px;
+    }
+    header>nav{
+        display: none;
+    }
+    header>button {
+        display: none;
+    }
+    .page1{
+        width: 88vw;
+        height: 249vw;
+        margin-left: 6vw;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .page1>div{
+        width: 88vw;
+    }
+    .page1>div>h5{
+        font-size: 16px;
+        line-height: 150%;
+        width: 78vw;
+        margin: 8vw 0 13.3vw 0;
+    }
+    .page1>div>h2{
+        font-size: 42px;
+        line-height: 150%;
+        margin-top: 17.6vw;
+    }
+    .page1>div>button{
+        width: 44vw;
+        height: 44px;
+        font-size: 16px;
+    }
+    .right{
+        height: 108vw;
+        width: 88vw;
+    }
+    .page2 {
+        height:185.8vw ;
+        width: 88vw;
+        margin-left: 6vw;
+    }
+    .page2>main{
+        height: 112vw;
+        width: 88vw;
+        justify-content: space-between;
+    }
+    .text{
+        height:49.6vw ;
+        width: 88vw;
+        flex-direction: column;
+    }
+    .page2 >main> article > div > h3 {
+        width: 88vw;
+        margin-top: 0;
+        font-size: 36px;
+        line-height: 150%; /* 54px */
+    }
+    .page2 >main> article > div > h5 {
+        width: 78vw;
+        margin-top: 0;
+        font-size: 16px;
+        line-height: 150%; /* 24px */
+    }
+    .image2{
+        height: 49vw;
+    }
+
+    .page3 {
+        height: 527.47vw;
+    }
+    .blocks{
+        height: 476.8vw;
+    }
+    .page3 > div {
+        width: 88vw;
+        height: 28.8vw;
+    }
+    .page3> div > h3 {
+        width: 88vw;
+        font-size: 36px;
+        line-height: 150%; /* 54px */
+        text-align: left;
+    }
+
+    .blocks > div {
+        height: 52.8vw;
+        width: 88vw;
+        justify-content: space-between;
+    }
+    .blocks>div>h3{
+        font-size: 24px;
+    }
+    .blocks>div>h4{
+        font-size: 16px;
+        line-height: 28px; /* 175% */
+    }
+    .page4{
+        margin: 50vw 0 61vw 0;
+        width: 100vw;
+        justify-content: space-between;
+    }
+    .page4>h1{
+        width: 88vw;
+        margin-bottom: 13.34vw;
+        margin-left: 6vw;
+        font-size: 36px;
+        line-height: 150%; /* 54px */
+    }
+    .page4>article>div{
+        height: 78.4vw;
+        width: 100vw;
+    }
+    .article1{
+        display: none;
+    }
+    .article3{
+        display: none;
+    }
+    .contact{
+        height:110.9vw;
+        display: flex;
+        align-items: center;
+    }
+    footer{
+        width: 88vw;
+        margin-left: 6vw;
+        flex-direction: column;
+        align-items: flex-start;
+        height: 68.3vw;
+    }
+    footer>div{
+        height: 43.2vw;
+    }
+    footer>div>h2{
+        width: 88vw;
+        font-size: 36px;
+        line-height: 150%; /* 54px */
+    }
+    footer>button{
+        width: 166px;
+        height: 44px;
+    }
+    .end{
+        margin: 37.3vw 0 13.3vw 6vw;
+        height: 81.6vw;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    .support{
+        display: flex;
+        width: 48vw;
+        justify-content: center;
+        align-items: center;
+        padding-top: 0;
+    }
+    .support>h5{
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 28px; /* 155.556% */
+        text-transform: capitalize;
+        color: rgba(255, 255, 255, 0.70);
+    }
+    .end>div>h4{
+        color: #FFF;
+        font-size: 18px;
+        line-height: 28px; /* 155.556% */
+    }
+
+
+
+
+
+}
